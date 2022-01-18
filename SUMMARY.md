@@ -12,3 +12,4 @@
 * [📚 Day 9: Node.Js Understanding Event-Driven Code Execution](day-9-node.js-understanding-event-driven-code-execution.md)
 * [📚 Day 10: Node.Js Understanding Blocking and Non-blocking Code](day-10-node.js-understanding-blocking-and-non-blocking-code.md)
 * [📚 Day 11: Node.Js Modules System](day-11-node.js-modules-system.md)
+* [📚 Day 12: NodeJs Package Manager, Debugging](day-12-nodejs-package-manager-debugging.md)
