@@ -1,6 +1,6 @@
 # 📚 Day 12: NodeJs Package Manager, Debugging
 
-✅ Completed Chapter 3: Improved Development Workflow and Debugging&#x20;
+✅ Completed Chapter 4: Improved Development Workflow and Debugging&#x20;
 
 📖 Topics Covered:&#x20;
 
