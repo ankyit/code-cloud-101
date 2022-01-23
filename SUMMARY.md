@@ -15,3 +15,6 @@
 * [📚 Day 12: NodeJs Package Manager, Debugging](day-12-nodejs-package-manager-debugging.md)
 * [📚 Day 13: Introduction to ExpressJS & Routing](day-13-introduction-to-expressjs-and-routing.md)
 * [📚 Day 14: Parsing Incoming Requests](day-14-parsing-incoming-requests.md)
+* [📚 Day 15: Using Express Router](day-15-using-express-router.md)
+* [📚 Day 16: Adding 404](day-16-adding-404.md)
+* [Day 17: Adding Path Filter](day-17-adding-path-filter.md)
