@@ -17,4 +17,5 @@
 * [📚 Day 14: Parsing Incoming Requests](day-14-parsing-incoming-requests.md)
 * [📚 Day 15: Using Express Router](day-15-using-express-router.md)
 * [📚 Day 16: Adding 404](day-16-adding-404.md)
-* [Day 17: Adding Path Filter](day-17-adding-path-filter.md)
+* [📚 Day 17: Adding Path Filter](day-17-adding-path-filter.md)
+* [📚 Day 18: Adding HTML Files and Serving Static Contents](day-18-adding-html-files-and-serving-static-contents.md)
